@@ -1,4 +1,3 @@
-layout_spectrum: 0.55574228358455
 typography_spectrum: 0.22265739203430712
 color:
   brandStrength: 0.645095709245652
@@ -11,4 +10,9 @@ color:
     - '#BDD684'
     - '#E2F0D6'
     - '#F6FFE0'
+layout_spectrum: 0.55574228358455
+author:
+  name: Ko Orita
+  email: ko@adinnovator.com
 name: Digital Media Strategies
+title: 未来のマーケティング創造
